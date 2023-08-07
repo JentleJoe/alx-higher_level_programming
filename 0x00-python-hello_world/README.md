@@ -19,3 +19,6 @@ A python script that prints formatted string using `f-strings`
 
 ### 4-print_float.py
 A python string that prints a formatted string with a rounded flaot with `f_string`
+
+### 5-print_string.py
+Python script that prints 3 times a string stored in a variable wihtout using loops
