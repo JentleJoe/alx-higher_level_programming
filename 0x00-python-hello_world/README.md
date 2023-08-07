@@ -25,3 +25,6 @@ Python script that prints 3 times a string stored in a variable wihtout using lo
 
 ### 6-concat.py
 Python script that concatanates two strings
+
+### 7-edges.py
+Python script that performs cutting, copying and pasting operations from strings
