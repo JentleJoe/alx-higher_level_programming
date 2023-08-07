@@ -12,3 +12,4 @@ A shell script that runs a Python script
 A Shell script that runs Python code in command line mode
 
 ### 2-print.py
+A python script that prints a string using the print() function
