@@ -22,3 +22,6 @@ A python string that prints a formatted string with a rounded flaot with `f_stri
 
 ### 5-print_string.py
 Python script that prints 3 times a string stored in a variable wihtout using loops
+
+### 6-concat.py
+Python script that concatanates two strings
