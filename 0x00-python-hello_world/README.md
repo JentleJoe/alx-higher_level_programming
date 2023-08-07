@@ -28,3 +28,9 @@ Python script that concatanates two strings
 
 ### 7-edges.py
 Python script that performs cutting, copying and pasting operations from strings
+
+### 8-concat_edges.py
+Python script that creates new string by concatenating different parts of original string
+
+## 9-easter_egg.py
+Python script that prints the “The Zen of Python” by `TimPeters`
