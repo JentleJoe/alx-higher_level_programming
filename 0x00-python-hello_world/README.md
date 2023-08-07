@@ -12,4 +12,10 @@ A shell script that runs a Python script
 A Shell script that runs Python code in command line mode
 
 ### 2-print.py
-A python script that prints a string using the print() function
+A python script that prints a string using the `print()` function
+
+### 3-print_number.py
+A python script that prints formatted string using `f-strings`
+
+### 4-print_float.py
+A python string that prints a formatted string with a rounded flaot with `f_string`
