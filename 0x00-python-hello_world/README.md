@@ -40,3 +40,6 @@ Python script that writes to stderr using the `write` function from the `sys` mo
 
 ### 101-compile
 Shell script that compiles a python script file
+
+### 102-magic_calculation.py
+Python function that perfoms some arithmetic operation
