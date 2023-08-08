@@ -39,4 +39,4 @@ Python script that prints the “The Zen of Python” by `TimPeters`
 Python script that writes to stderr using the `write` function from the `sys` module
 
 ### 101-compile
-Python script that compiles a python script file
+Shell script that compiles a python script file
