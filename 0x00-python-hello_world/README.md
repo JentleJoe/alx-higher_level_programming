@@ -32,5 +32,8 @@ Python script that performs cutting, copying and pasting operations from strings
 ### 8-concat_edges.py
 Python script that creates new string by concatenating different parts of original string
 
-## 9-easter_egg.py
+### 9-easter_egg.py
 Python script that prints the “The Zen of Python” by `TimPeters`
+
+### 100-write.py
+Python script that writes to stderr using the `write` function from the `sys` module
