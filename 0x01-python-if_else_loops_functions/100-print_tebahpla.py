@@ -2,6 +2,6 @@
 i = 1
 for char in range (ord('z'), ord('a') - 1, -1):
     if (i % 2 == 0):
-        char = chr(char).upper()
+        char = char - 32
     print(chr(char), end='')
     i = i + 1
