@@ -7,6 +7,6 @@ for start in range(0, 9):
             print("{}{}".format(start, end))
             break
         if (start < end):
-            print("{}{} ,".format(start, end), end='')
+            print("{}{}, ".format(start, end), end='')
         elif (start == end):
             continue
