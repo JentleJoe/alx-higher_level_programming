@@ -1,0 +1,13 @@
+def fizzbuzz():
+    for num in range(1, 101):
+        if (num == 100):
+            print('Buzz', end='')
+            break
+        elif (num % 5 == 0 and num % 3 == 0):
+            print('FizzBuzz ', end='')
+        elif (num % 3 == 0):
+            print('Fizz ', end='')
+        elif (num % 5 == 0):
+            print('Buzz ', end='')
+        else:
+            print('{} '.format(num), end='')
