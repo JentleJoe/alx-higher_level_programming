@@ -11,4 +11,5 @@ def uppercase(str):
 #            print("{}".format(char))
 #            break
         print("{}".format(char), end='')
-    print("\n")
+    char = '\n'
+    print("{}".format(char), end='')
