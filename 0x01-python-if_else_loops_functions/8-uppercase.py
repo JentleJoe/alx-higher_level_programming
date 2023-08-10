@@ -7,7 +7,8 @@ def uppercase(str):
             char = chr(ord(str[i]) - 32)
         else:
             char = chr(ord(str[i]))
-        if (i == len(str) - 1):
-            print("{}".format(char))
-            break
+#        if (i == len(str) - 1):
+#            print("{}".format(char))
+#            break
         print("{}".format(char), end='')
+    print("\n")
