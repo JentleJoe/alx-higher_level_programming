@@ -12,7 +12,7 @@ class Square:
             size: the size of the square, it is met to be private
 
         Raises:
-            ValueError: If 'size' is not an integer and if 'size' is
+            TypeError: If 'size' is not an integer and if 'size' is
                 less that zero
 
         """
@@ -62,7 +62,7 @@ class Square:
 
         """
         if (self.size == 0):
-            print('\n')
+            print()
         else:
             for num in range(self.size):
                 for char in range(self.size):
