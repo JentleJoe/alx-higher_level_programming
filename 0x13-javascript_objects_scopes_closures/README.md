@@ -1,1 +1,2 @@
-# Solutions to tasks on JavaScript - Objects, Scopes and Closures
+# JavaScript - Objects, Scopes and Closures
+Solutions to programming assignments on Objects, scopes and closures
